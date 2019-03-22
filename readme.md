@@ -2,7 +2,8 @@
 
 ## How to run test API: 
 
-Make sure you have installed Node.js, and run command (in project directory):
+Make sure you have installed Node.js.
+Run command (in project directory):
 ```bash
 npx json-server -w WH.json
 ```

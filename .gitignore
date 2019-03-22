@@ -1,0 +1,8 @@
+.idea
+.settings
+allure-results
+.classpath
+.factorypath
+.project
+target
+*.iml
