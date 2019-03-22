@@ -1,9 +1,4 @@
-.idea
-.settings
-.vscode
 allure-results
-.classpath
-.factorypath
-.project
 target
-*.iml
+.*
+!.gitignore

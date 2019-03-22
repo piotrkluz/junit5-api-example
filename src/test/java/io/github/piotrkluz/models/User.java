@@ -1,7 +1,5 @@
 package io.github.piotrkluz.models;
 
-import java.util.Currency;
-
 import com.fasterxml.jackson.annotation.JsonAlias;
 import lombok.Data;
 
