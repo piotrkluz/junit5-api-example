@@ -1,5 +1,6 @@
 .idea
 .settings
+.vscode
 allure-results
 .classpath
 .factorypath
